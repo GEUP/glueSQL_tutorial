@@ -6,7 +6,7 @@ rustup-init.exe 설치 후 실행
 ```
 > rustc --version
 > cargo new test_gluesql
-> cargo new test_gluesql
+> cd test_gluesql
 > notepad Cargo.toml
 ```
 
