@@ -41,4 +41,4 @@ fn main() {
 > cargo build
 >.\target\debug\test_gluesql.exe
 ```
-![image](https://user-images.githubusercontent.com/33981028/174087696-bb7daf44-3b4b-4d10-b6b3-ec24cf48998c.png)
+
